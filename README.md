@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3><b><font color="#2EA043">AI & Data Science Student | Published Researcher | Agentic AI Builder</font></b></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&weight=700&size=22&pause=1000&color=58A6FF&width=800&lines=AI+%26+Data+Science+Student+%7C+Published+Researcher+%7C+Agentic+AI+Builder" alt="Typing SVG" /></a>
 
 I am passionate about bridging the gap between deep analytical research and production-grade software, currently focusing on autonomous agent workflows and scalable backends.
 
