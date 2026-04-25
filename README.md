@@ -4,10 +4,10 @@
 I am passionate about bridging the gap between deep analytical research and production-grade software, currently focusing on autonomous agent workflows and scalable backends.
 
 🔭 Currently architecting $\color{#58A6FF}{\mathbf{InvAi}}$ — an autonomous AI supply chain platform powered by LangChain, Llama 3, and FastAPI. <br>
-👯 Looking to collaborate on: Open-source Generative AI projects and scalable data architectures. <br>
-🤝 Looking to connect with: Engineers building complex RAG pipelines and enterprise-level LLM deployments. <br>
-🌱 Currently mastering: Advanced Agentic AI patterns and high-performance API design. <br>
-💬 Ask me about: Python, SQL, Power BI, and my published research on the economic impact of AI. <br>
+👯 Looking to collaborate on Open-source Generative AI projects and scalable data architectures. <br>
+🤝 Looking to connect with Engineers building complex RAG pipelines and enterprise-level LLM deployments. <br>
+🌱 Currently mastering Advanced Agentic AI patterns and high-performance API design. <br>
+💬 Ask me about Python, SQL, Power BI, and my published research on the economic impact of AI. <br>
 ⚡ Fun fact: I balance the terminal with the pen—when I'm not coding AI workflows, I'm usually writing Poetry or driving social impact as an NSS Outreach Coordinator. <br>
 
 ## 🌐 Socials:
