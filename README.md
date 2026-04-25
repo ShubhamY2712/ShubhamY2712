@@ -8,7 +8,7 @@ I am passionate about bridging the gap between deep analytical research and prod
 🤝 Looking to connect with Engineers building complex RAG pipelines and enterprise-level LLM deployments. <br>
 🌱 Currently mastering Advanced Agentic AI patterns and high-performance API design. <br>
 💬 Ask me about Python, SQL, Power BI, and my published research on the economic impact of AI. <br>
-⚡ Fun fact: I balance the terminal with the pen—when I'm not coding AI workflows, I'm usually writing Poetry or driving social impact as an NSS Outreach Coordinator. <br>
+⚡ Fun fact is that I balance the terminal with the pen—when I'm not coding AI workflows, I'm usually writing Poetry or driving social impact as an NSS Outreach Coordinator. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-yawalkar/) 
