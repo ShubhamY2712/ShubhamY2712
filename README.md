@@ -3,7 +3,7 @@
 
 I am passionate about bridging the gap between deep analytical research and production-grade software, currently focusing on autonomous agent workflows and scalable backends.
 
-* 🔭 Currently architecting: $\color{#58A6FF}{\textsf{InvAi}}$ — an autonomous AI supply chain platform powered by LangChain, Llama 3, and FastAPI.
+* 🔭 Currently architecting: $\color{#58A6FF}{\mathbf{InvAi}}$ — an autonomous AI supply chain platform powered by LangChain, Llama 3, and FastAPI.
 👯 Looking to collaborate on: Open-source Generative AI projects and scalable data architectures. <br>
 🤝 Looking to connect with: Engineers building complex RAG pipelines and enterprise-level LLM deployments. <br>
 🌱 Currently mastering: Advanced Agentic AI patterns and high-performance API design. <br>
