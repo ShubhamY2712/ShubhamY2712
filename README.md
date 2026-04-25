@@ -1,5 +1,5 @@
 # 💫 About Me:
-**AI & Data Science Student** | **Published Researcher** | **Agentic AI Builder**
+<h3><b><font color="#2EA043">AI & Data Science Student | Published Researcher | Agentic AI Builder</font></b></h3>
 
 I am passionate about bridging the gap between deep analytical research and production-grade software, currently focusing on autonomous agent workflows and scalable backends.
 
