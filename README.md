@@ -20,7 +20,7 @@ I am passionate about bridging the gap between deep analytical research and prod
 ![](https://streak-stats.demolab.com/?user=ShubhamY2712&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamY2712&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ 
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
