@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/ShubhamY2712 · colours match the portfolio (amber #FFC53D on #0D0B07) -->
 
-<a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app">
+<a href="https://shubhamyawalkar.vercel.app/">
   <img src="./assets/header.svg" width="100%" alt="Shubham Yawalkar. I shape and build AI products, end to end." />
 </a>
 
