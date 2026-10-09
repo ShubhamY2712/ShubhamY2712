@@ -35,38 +35,25 @@
         <img src="./assets/invai.svg" width="100%" alt="InvAI: AI-powered supply-chain intelligence SaaS. Solo Founder and Product Lead, April 2026 to present. In progress." />
       </a>
       <p align="center"><a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/invai"><b>Read the case study →</b></a></p>
+      <details>
+        <summary><kbd>✨ <b>Explore InvAI highlights</b> ▾</kbd></summary>
+        <br />
+        <img src="./assets/highlights-invai.svg" width="100%" alt="InvAI highlights. 11 features, 3 subscription tiers, 4-phase roadmap, 6 critical fixes. Scope: an 11-feature multi-tenant SaaS across 3 subscription tiers, built solo end to end. Pricing: caught a margin shortfall in the premium AI-tier pricing before launch and redesigned the monetization strategy. Architecture: prioritized secure multi-tenant data isolation and a full purchase-order and inventory workflow for franchise-scale customers. Roadmap: sequenced a RAG-based AI assistant as phase 2 of a 4-phase product roadmap. Security: ran a self-directed security review and fixed 6 critical vulnerabilities before any external exposure. Tech: Python, FastAPI, PostgreSQL, Next.js, Claude API, pgvector, LangChain." />
+      </details>
     </td>
     <td width="50%" valign="top">
       <a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/creditsaathi" title="Read the CreditSaathi case study">
         <img src="./assets/creditsaathi.svg" width="100%" alt="CreditSaathi: AI-driven alternative credit scoring. Team Lead of a 4-member team, August 2026 to present. In progress." />
       </a>
       <p align="center"><a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/creditsaathi"><b>Read the case study →</b></a></p>
+      <details>
+        <summary><kbd>✨ <b>Explore CreditSaathi highlights</b> ▾</kbd></summary>
+        <br />
+        <img src="./assets/highlights-creditsaathi.svg" width="100%" alt="CreditSaathi highlights. 4-member team, 2 FinTech niches merged, gig and MSME borrowers, fairness audit built in. Idea: originated the idea and lead a 4-member team from ideation through formal panel evaluation. Market: merged gig-economy credit scoring and MSME alternative-data creditworthiness into one product. Model: chose cross-segment transfer learning to handle data scarcity. Now building (in progress): a peer-relative, cluster-normalized scoring model with a built-in fairness audit and borrower-facing transparency features. Tech: Python, Machine Learning, Transfer Learning." />
+      </details>
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>🔍 Click for the InvAI highlights</b></summary>
-  <br />
-
-  - An 11-feature multi-tenant SaaS across 3 subscription tiers, built solo end to end.
-  - Caught a margin shortfall in the premium AI-tier pricing before launch and redesigned the monetization strategy.
-  - Prioritized secure multi-tenant data isolation and a full purchase-order / inventory workflow; sequenced a RAG-based AI assistant as phase 2 of a 4-phase roadmap.
-  - Ran a self-directed security review and fixed 6 critical vulnerabilities before any external exposure.
-
-  `Python` `FastAPI` `PostgreSQL` `Next.js` `Claude API` `pgvector` `LangChain`
-</details>
-
-<details>
-  <summary><b>🔍 Click for the CreditSaathi highlights</b></summary>
-  <br />
-
-  - Originated the idea; leading a 4-member team from ideation through formal panel evaluation.
-  - Merged two underserved FinTech niches (gig-economy credit scoring and MSME alternative-data creditworthiness) into one product.
-  - Chose cross-segment transfer learning to handle data scarcity; now developing a peer-relative, cluster-normalized scoring model with a built-in fairness audit.
-
-  `Python` `Machine Learning` `Transfer Learning`
-</details>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
