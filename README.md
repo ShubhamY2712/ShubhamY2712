@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/ShubhamY2712 · colours match the portfolio (amber #FFC53D on #0D0B07) -->
 
-<a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app">
+<a href="https://shubhamyawalkar.vercel.app/">
   <img src="./assets/header.svg" width="100%" alt="Shubham Yawalkar. I shape and build AI products, end to end." />
 </a>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app" title="See my portfolio"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
+  <a href="https://shubhamyawalkar.vercel.app/" title="See my portfolio"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/shubham-yawalkar" title="Connect on LinkedIn"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:shubham.yawalkar@adypu.edu.in" title="Send me an email"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
 </p>
@@ -31,10 +31,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/invai" title="Read the InvAI case study">
+      <a href="https://shubhamyawalkar.vercel.app/invai" title="Read the InvAI case study">
         <img src="./assets/invai.svg" width="100%" alt="InvAI: AI-powered supply-chain intelligence SaaS. Solo Founder and Product Lead, April 2026 to present. In progress." />
       </a>
-      <p align="center"><a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/invai"><b>Read the case study →</b></a></p>
+      <p align="center"><a href="https://shubhamyawalkar.vercel.app/invai"><b>Read the case study →</b></a></p>
       <details>
         <summary><kbd>✨ <b>Explore InvAI highlights</b> ▾</kbd></summary>
         <br />
@@ -42,10 +42,10 @@
       </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/creditsaathi" title="Read the CreditSaathi case study">
+      <a href="https://shubhamyawalkar.vercel.app/creditsaathi" title="Read the CreditSaathi case study">
         <img src="./assets/creditsaathi.svg" width="100%" alt="CreditSaathi: AI-driven alternative credit scoring. Team Lead of a 4-member team, August 2026 to present. In progress." />
       </a>
-      <p align="center"><a href="https://portfolio-one-rose-x4y56nr3w0.vercel.app/creditsaathi"><b>Read the case study →</b></a></p>
+      <p align="center"><a href="https://shubhamyawalkar.vercel.app/creditsaathi"><b>Read the case study →</b></a></p>
       <details>
         <summary><kbd>✨ <b>Explore CreditSaathi highlights</b> ▾</kbd></summary>
         <br />
